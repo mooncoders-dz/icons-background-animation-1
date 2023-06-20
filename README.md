@@ -7,10 +7,6 @@ https://mooncoders-dz.github.io/icons-background-animation-1/
 - HTML
 - CSS
 
-## Installation
-1. Clone the repository: `git clone https://github.com/mooncoders-dz/icons-background-animation-1.git`
-2. Navigate to the project directory: `cd repository-name`
-
 ## License
 
 This project is licensed under a free and open license. You are free to use, modify, and distribute the code, as long as you include the following attribution:
